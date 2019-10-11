@@ -1,0 +1,40 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grability.rappi",
+            "sha256_cert_fingerprints": [
+                "DE:43:FA:3B:4C:7A:CB:83:BE:C9:18:18:7F:0A:F7:2A:49:3B:D2:B3:D4:EB:4F:16:F8:4E:04:A3:99:0B:38:91"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grability.rappi",
+            "sha256_cert_fingerprints": [
+                "A9:71:E6:9B:B2:0F:6A:67:85:DE:B2:E8:ED:AA:44:A0:4D:C5:91:45:4E:B1:F6:55:B4:41:FB:33:94:BE:E7:1A"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.grability.rappi.dev",
+            "sha256_cert_fingerprints": [
+                "EF:D9:EE:91:D8:69:6D:92:F5:00:DA:AF:19:28:1B:36:91:34:D4:E9:7C:C0:36:AE:C1:CA:CF:97:D9:A1:6E:14",
+                "A9:71:E6:9B:B2:0F:6A:67:85:DE:B2:E8:ED:AA:44:A0:4D:C5:91:45:4E:B1:F6:55:B4:41:FB:33:94:BE:E7:1A",
+                "4D:F7:0F:4F:F9:65:FA:A6:3C:8B:7A:8D:38:AD:CD:8D:9C:E8:07:A8:46:D0:98:EC:C5:21:84:A7:61:EC:4C:6A"
+            ]
+        }
+    }
+]
